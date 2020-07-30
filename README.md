@@ -1,1 +1,0 @@
-# Uninstall_VIB_from_multiple_hosts.ps1
