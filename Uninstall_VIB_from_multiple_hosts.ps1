@@ -1,6 +1,6 @@
  <#
 .SYNOPSIS
-    Uninstall_VIB_from_multiple_hosts.ps1 - PowerShell Script to rmove (multiple) VIBs from one or more ESXi hosts.
+    Uninstall_VIB_from_multiple_hosts.ps1 - PowerShell Script to remove (multiple) VIBs from one or more ESXi hosts.
 .DESCRIPTION
     This script is used to delete one or multiple VIB files from one or more ESXi hosts (depending on how you change line 15).
     By default the script will run against all ESXi hosts which are placed in maintenance mode.
